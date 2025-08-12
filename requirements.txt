@@ -1,1 +1,5 @@
-!pip install pulp matplotlib pandas numpy scipy
+pulp
+matplotlib
+pandas
+numpy
+scipy
